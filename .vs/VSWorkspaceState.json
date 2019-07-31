@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\google-chart",
+    "\\src\\app\\google-chart\\line-chart",
+    "\\src\\app\\google-chart\\pie-chart",
+    "\\src\\app\\google-chart\\service",
+    "\\src\\app\\google-chart\\table-chart",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\src\\index.html",
+  "PreviewInSolutionExplorer": false
+}
